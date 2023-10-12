@@ -1,0 +1,78 @@
+
+.head{
+    margin-bottom: 50px;
+    display: block;
+    margin-left: 450px;
+    margin-top: 150px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times;
+    font-style: italic; 
+    color: brown;
+    
+
+}
+.box-1
+{
+    display: block;
+    margin-left: 500px;
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown
+   
+   
+  
+}
+.box-2{
+    display: block;
+    margin-left: 500px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown
+   
+   
+   
+
+}
+.bt{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+    
+
+   
+}
+.bt:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.bt2{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 30px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+    
+}
+.bt2:hover{
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 20px;
+
+
